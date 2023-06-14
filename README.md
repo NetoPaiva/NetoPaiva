@@ -1,10 +1,10 @@
 ## Olá, sou Neto Paiva 👋
 
 
-- 🔭 Sou formado em Design
-- 🌱 Estou me especializando em Front End | Programa ONE - Oracle / Alura
-- 👯 Pretendo colaborar em projetos Web
-- 🤔 Contribuindo com minha experiência e conhecimentos
+- 🔭 Formado em Design
+- 🌱 Especializado em Front-end | Programa ONE - Oracle / Alura
+- 👯 A procura de projetos Web para colaborar 
+- 🤔 no desenvolvimento e contribuir com minha experiência e conhecimentos
 
 Sinta-se a vontade para entrar em contato : )
 
